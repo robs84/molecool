@@ -13,6 +13,10 @@ This repository is currently under development.  To developmental install, downl
 
 in the repository directory.
 
+This package requires the following:
+~NumPy
+~MatplotLib
+
 ### Copyright
 
 Copyright (c) 2020, Robert Smith
