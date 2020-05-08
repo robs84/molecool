@@ -51,9 +51,9 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 '''
-if with_attribution:
-    quote += "\n\t- Tim Peters"
-return quote
+    if with_attribution:
+        quote += "\n\t- Tim Peters"
+    return quote
 
 if __name__ == "__main__":
     # Do something if this file is invoked on its own
